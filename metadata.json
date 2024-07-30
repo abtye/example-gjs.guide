@@ -1,0 +1,8 @@
+{
+  "name": "Get Temperature",
+  "description": "Get Temperature",
+  "uuid": "abtye@github.com",
+  "shell-version": [
+    "46"
+  ]
+}
